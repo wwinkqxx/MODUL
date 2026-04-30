@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Laptop",
+    "price": 1200.99,
+    "quantity": 5
+  },
+  {
+    "name": "Mouse",
+    "price": 25.50,
+    "quantity": 0
+  },
+  {
+    "name": "Keyboard",
+    "price": 75.00,
+    "quantity": 3
+  },
+  {
+    "name": "Monitor",
+    "price": 300.00,
+    "quantity": 0
+  },
+  {
+    "name": "Headphones",
+    "price": 150.25,
+    "quantity": 10
+  },
+ 
+]
